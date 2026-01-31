@@ -1,0 +1,81 @@
+.comeback{
+	position:absolute;
+	background-color:purple;
+	width:200px;
+	height:50px;
+	border:2px solid black;
+	border-radius:5%;
+	color:white;
+	margin-left:85%;
+}
+body{
+	font-family:cursive;
+	background-color:#ecd077;
+}
+a{
+	color:white;
+	
+}
+h1{
+	font-size:50px
+	
+}
+li{
+	font-size:30px;
+	
+}
+.main{
+	position:absolute;
+	margin-top:5%;
+	margin-left:5%;
+	
+}
+.brbr{
+	width:5px;
+	height:800px;
+	background-color:blue;
+	border-radius:5%;
+	margin-left:50%;
+	 position:absolute;
+}
+
+.patapim{
+	 margin-left:60%;
+	 margin-top:5%;		
+	 position:absolute;
+	 
+}
+.abb{
+position:absolute;
+width:50%;
+}
+.beb{
+margin-left:55%;
+	
+	
+}
+
+.cscs{
+	margin-left:31%;
+	
+}
+.cccc{
+	margin-left:15%;
+}
+	
+.asas{
+	width:50%;
+	height:50%;
+	
+}
+
+.QQQQ{
+	width:50%;
+}
+.samo{
+	width:400px;
+	
+}
+
+
+
